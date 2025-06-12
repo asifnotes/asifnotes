@@ -7,7 +7,7 @@ I'm currently focusing on my studies and expanding my skills in software develop
 <img align="left" width="150" height="150" src="https://github.com/asifnotes/asifnotes/blob/main/bean.png" alt="asiful's profile">
 
 ### ✨ Connect with me! 😊 ✨
-You can find me on [Instagram](https://www.instagram.com/your-instagram-handle) and [Facebook](https://facebook.com/asifulislamasiff). You can also connect with me on [LinkedIn](https://linkedin.com/in/asifulislamasif) or [send me an email](mailto:asifulislamasif97@gmail.com).
+You can find me on [Instagram](https://www.instagram.com/asiful_islam.64) and [Facebook](https://facebook.com/asifulislamasiff). You can also connect with me on [LinkedIn](https://linkedin.com/in/asifulislamasif) or [send me an email](mailto:asifulislamasif97@gmail.com).
 
 <!--
 **asifnotes/asifnotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
