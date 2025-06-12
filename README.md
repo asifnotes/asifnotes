@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hey, I'm Asiful Islam! 👋
+
+I'm a 7th semester Computer Science & Engineering student at AIUB, passionate about technology, community building, and helping others start their journey into tech. I enjoy learning deeply about programming, creating content, and exploring the field of Artificial Intelligence.
+
+I'm currently focusing on my studies and expanding my skills in software development and AI.
+
+<img align="left" width="150" height="150" src=".png" alt="asiful's profile">
+
+### ✨ Connect with me! 😊 ✨
+You can find me on [Instagram](https://www.instagram.com/your-instagram-handle) and [Facebook](https://facebook.com/asifulislamasiff). You can also connect with me on [LinkedIn](https://linkedin.com/in/asifulislamasif) or [send me an email](mailto:asifulislamasif97@gmail.com).
 
 <!--
 **asifnotes/asifnotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
