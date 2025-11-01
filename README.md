@@ -1,6 +1,6 @@
 ### Hey, I'm Asiful Islam! 👋
 
-I'm a 7th semester Computer Science & Engineering student at AIUB, passionate about technology, community building, and helping others start their journey into tech. I enjoy learning deeply about programming, creating content, and exploring the field of Artificial Intelligence.
+I'm a 8th semester Computer Science & Engineering student at AIUB, passionate about technology, community building, and helping others start their journey into tech. I enjoy learning deeply about programming, creating content, and exploring the field of Artificial Intelligence.
 
 I'm currently focusing on my studies and expanding my skills in software development and AI.
 <p align="left">
