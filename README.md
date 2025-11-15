@@ -15,7 +15,7 @@ I'm currently focusing on my studies and expanding my skills in software develop
 
 
 ### ✨ Connect with me! 😊 ✨
-You can find me on [Through Website]([asif.onetapcampus.com](https://asif.onetapcampus.com/)) , [Instagram](https://www.instagram.com/asiful_islam.64) and [Facebook](https://facebook.com/asifulislamasiff). You can also connect with me on [LinkedIn](https://linkedin.com/in/asifulislamasif) or [send me an email](mailto:asifulislamasif97@gmail.com).
+You can find me on [Website](https://asif.onetapcampus.com/) , [Instagram](https://www.instagram.com/asiful_islam.64) and [Facebook](https://facebook.com/asifulislamasiff). You can also connect with me on [LinkedIn](https://linkedin.com/in/asifulislamasif) or [send me an email](mailto:asifulislamasif97@gmail.com).
 
 <!--
 **asifnotes/asifnotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
